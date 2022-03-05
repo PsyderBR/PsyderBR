@@ -1,4 +1,4 @@
-### OLá! Meu nome é João Guilherme
+### Olá! Meu nome é João Guilherme
 
 
 - 🔭 HOje trabalho com back-end
