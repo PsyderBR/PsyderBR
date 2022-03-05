@@ -1,7 +1,7 @@
 ### Olá! Meu nome é João Guilherme
 
 
-- 🔭 HOje trabalho com back-end
+- 🔭 Hoje trabalho com back-end
 - 🌱 Estudante de Desenvolvimento de Sistemas
 - 📫 Contate-me no e-mail: joaoguilhermebatistarufino@gmail.com
 - 😄 Pronouns: ele/dele
